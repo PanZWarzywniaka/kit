@@ -1,5 +1,15 @@
 # @sveltejs/kit
 
+## 2.4.0
+
+### Minor Changes
+
+- feat: adapter method to get server assets used by each route ([#10979](https://github.com/sveltejs/kit/pull/10979))
+
+### Patch Changes
+
+- fix: remove internal `__sveltekit/` module declarations from types ([#11620](https://github.com/sveltejs/kit/pull/11620))
+
 ## 2.3.2
 
 ### Patch Changes

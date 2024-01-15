@@ -1,5 +1,16 @@
 # @sveltejs/adapter-vercel
 
+## 4.1.0
+
+### Minor Changes
+
+- feat: bundle server assets with serverless functions ([#10979](https://github.com/sveltejs/kit/pull/10979))
+
+### Patch Changes
+
+- Updated dependencies [[`2137717ea8592c310ada93490feabbd9eea125ea`](https://github.com/sveltejs/kit/commit/2137717ea8592c310ada93490feabbd9eea125ea), [`fe1a11e5bf3ea3b3852f009a490f368c4adaaed8`](https://github.com/sveltejs/kit/commit/fe1a11e5bf3ea3b3852f009a490f368c4adaaed8)]:
+  - @sveltejs/kit@2.4.0
+
 ## 4.0.4
 
 ### Patch Changes
